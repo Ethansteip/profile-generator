@@ -1,3 +1,9 @@
+
+/*
+* Profile Generator - asks the user a series of questions through the terminal before responding with a quirky online profile description!
+*/
+
+
 const readline = require('readline');
 
 const rl = readline.createInterface({
